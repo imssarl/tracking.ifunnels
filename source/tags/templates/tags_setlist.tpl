@@ -1,0 +1,1 @@
+{foreach from=$arrTags item='v' name='loop'}{$v.decoded|truncate:15:"...":true}{if !$smarty.foreach.loop.last}, {/if}{/foreach}

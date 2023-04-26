@@ -1,0 +1,110 @@
+
+09.09.2015 00:00:01 - run lottery action
+ lottery users list count = 1
+09.09.2015 01:00:01 - run lottery action
+ lottery users list count = 1
+09.09.2015 02:00:01 - run lottery action
+ lottery users list count = 1
+09.09.2015 03:00:01 - run lottery action
+ lottery users list count = 1
+09.09.2015 04:00:01 - run lottery action
+ lottery users list count = 1
+09.09.2015 05:00:01 - run lottery action
+ lottery users list count = 1
+09.09.2015 06:00:01 - run lottery action
+ lottery users list count = 1
+09.09.2015 07:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 7
+09.09.2015 07:00:02 - SEND message 1 to user 447799906908
+09.09.2015 07:00:18 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"2";s:2:"id";s:1:"2";s:6:"action";s:9:"mp_report";}
+09.09.2015 07:00:26 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"2";s:2:"id";s:1:"2";s:6:"action";s:9:"mp_report";}
+09.09.2015 07:00:32 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"2";s:2:"id";s:1:"2";s:6:"action";s:9:"mp_report";}
+09.09.2015 07:00:41 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"2";s:2:"id";s:1:"2";s:6:"action";s:9:"mp_report";}
+09.09.2015 07:00:42 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"2";s:2:"id";s:1:"2";s:6:"action";s:9:"mp_report";}
+09.09.2015 08:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 8
+09.09.2015 08:32:03 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"2";s:2:"id";s:1:"2";s:6:"action";s:9:"mp_report";}
+09.09.2015 08:32:03 - User 447799906908 ACCEPT message 2
+09.09.2015 09:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 9
+09.09.2015 09:00:02 - SEND message 2 to user 447799906908
+09.09.2015 09:00:18 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"3";s:2:"id";s:1:"3";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:00:20 - SEND message 2 to user 447799906908 with amount 5
+09.09.2015 09:00:24 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"3";s:2:"id";s:1:"3";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:00:27 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:00:29 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:00:29 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"3";s:2:"id";s:1:"3";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:00:32 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:00:43 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:00:44 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:01:02 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:01:02 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"3";s:2:"id";s:1:"3";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:01:02 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:01:04 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"3";s:2:"id";s:1:"3";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:01:04 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:01:16 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 09:01:24 - REQUEST a:6:{s:9:"reason_id";s:3:"000";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:9:"542787884";s:2:"id";s:9:"542787884";s:6:"action";s:9:"mp_report";}
+09.09.2015 10:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 10
+09.09.2015 11:00:02 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 11
+09.09.2015 12:00:02 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 12
+09.09.2015 13:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 13
+09.09.2015 14:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 14
+09.09.2015 14:13:54 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 14
+09.09.2015 14:13:55 - SEND message 1 to user 447799906908
+09.09.2015 14:14:47 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 14
+09.09.2015 14:14:47 - SEND message 1 to user 447799906908
+09.09.2015 14:15:15 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"1";s:2:"id";s:1:"1";s:6:"action";s:9:"mp_report";}
+09.09.2015 14:15:17 - SEND message 1 to user 447799906908 with amount 5
+09.09.2015 14:52:27 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 14
+09.09.2015 14:52:28 - SEND message 1 to user 447799906908
+09.09.2015 14:52:47 - REQUEST a:6:{s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"1";s:2:"id";s:1:"1";s:6:"action";s:9:"mp_report";}
+09.09.2015 14:53:03 - REQUEST a:6:{s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"1";s:2:"id";s:1:"1";s:6:"action";s:9:"mp_report";}
+09.09.2015 14:53:03 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"1";s:2:"id";s:1:"1";s:6:"action";s:9:"mp_report";}
+09.09.2015 14:53:18 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"1";s:2:"id";s:1:"1";s:6:"action";s:9:"mp_report";}
+09.09.2015 14:53:21 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"1";s:2:"id";s:1:"1";s:6:"action";s:9:"mp_report";}
+09.09.2015 14:53:24 - REQUEST a:6:{s:9:"reason_id";s:0:"";s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:1:"1";s:2:"id";s:1:"1";s:6:"action";s:9:"mp_report";}
+09.09.2015 15:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 15
+09.09.2015 16:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 16
+09.09.2015 17:00:02 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 17
+09.09.2015 18:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 18
+09.09.2015 19:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 19
+09.09.2015 20:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 20
+09.09.2015 21:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 21
+09.09.2015 22:00:01 - run lottery action
+ lottery users list count = 1
+week day 3 time hour 22
+09.09.2015 23:00:02 - run lottery action
+ lottery users list count = 1

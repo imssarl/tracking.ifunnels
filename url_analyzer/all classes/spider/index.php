@@ -1,0 +1,87 @@
+<HTML>
+<TITLE>Spider 1.0</TITLE>
+<?php
+
+include("spider.php");
+
+if (!isset($url))
+	{
+	$doSpider = false;
+	$url = "http://www.php.net/";
+	$words = "25";
+	$common = true;
+	}
+else
+	{
+	$doSpider = true;
+	}
+?>
+
+<CENTER>
+<FONT FACE=ARIAL SIZE=+3><B>Spider 1.0</FONT></B><P>
+<FORM METHOD=GET ACTION=index.php>
+<TABLE>
+<TR><TD>URL:</TD><TD><INPUT TYPE=TEXT VALUE="<?php echo $url ?>" NAME='url' SIZE=35></TD></TR>
+<TR><TD>Number of words to nab:</TD><TD><INPUT TYPE=TEXT VALUE=<?php echo $words ?> NAME=words SIZE=3></TD></TR>
+<TR><TD>Strip out common words?:</TD><TD><SELECT NAME=common><OPTION VALUE=1<?php if ($common) {echo " SELECTED";} ?>>Yes</OPTION><OPTION VALUE=0<?php if (!$common) {echo " SELECTED";} ?>>No</OPTION></SELECT></TD></TR>
+<TR><TD>&nbsp;</TD><TD><INPUT TYPE=SUBMIT VALUE=Spider></TD></TR>
+</TABLE>
+</FORM>
+<P>
+
+<?php
+//echo "VIPIN".$url."<li>".$doSpider;
+if ($url!="")
+	{
+		//echo "VIPIN".$url;
+
+	$spider = new Spider($url, $words, $common);
+	$mywords = str_replace(",", ", ", $spider->words);
+echo "
+<TABLE BORDER=0 WIDTH=95%>
+<TR><TD VALIGN=TOP COLSPAN=2 BGCOLOR=#000000><B><CENTER><FONT COLOR=#FFFFFF>Meta Information:</FONT></CENTER></B></TD></TR>
+<TR><TD WIDTH=150 VALIGN=TOP BGCOLOR=#8BFF8B>Spidering</TD><TD VALIGN=TOP BGCOLOR=#8BFF8B><A HREF=\"" . $spider->url . "\" TARGET=_blank>" . $spider->url . "</A></TD></TR>
+<TR><TD WIDTH=150 VALIGN=TOP BGCOLOR=#C0C0FF>Title:</TD><TD VALIGN=TOP BGCOLOR=#C0C0FF>" . $spider->title . "</TD></TR>
+<TR><TD WIDTH=150 VALIGN=TOP BGCOLOR=#FFC0C0>Keywords:</TD><TD VALIGN=TOP BGCOLOR=#FFC0C0>" . $spider->keywords . "</TD></TR>
+<TR><TD WIDTH=150 VALIGN=TOP BGCOLOR=#FFFF80>Description:</TD><TD VALIGN=TOP BGCOLOR=#FFFF80>" . $spider->description . "</TD></TR>
+<TR><TD WIDTH=150 VALIGN=TOP BGCOLOR=#8BFF8B>Words:</TD><TD VALIGN=TOP BGCOLOR=#8BFF8B>" . $mywords . "</TD></TR>
+";
+
+echo "<TR><TD VALIGN=TOP COLSPAN=2 BGCOLOR=#000000><B><CENTER><FONT COLOR=#FFFFFF>Links Found: (click to spider)</FONT></CENTER></B></TD></TR>\n";
+if (count($spider->link_array) <= 0)
+	{
+	echo "<TR><TD VALIGN=TOP COLSPAN=2 BGCOLOR=#DDDDDD><CENTER>No Links Found</CENTER></B></TD></TR>\n";
+	}
+
+for ($i = 0 ; $i < count($spider->link_array) ; $i++)
+	{
+	echo "<TR><TD WIDTH=150 VALIGN=TOP BGCOLOR=#DDDDDD>[<A HREF=\"" . $spider->link_array[$i] . "\" TARGET=_blank>open</A>]&nbsp;&nbsp;&nbsp;Link " . ($i + 1) . ": </TD><TD VALIGN=TOP BGCOLOR=#DDDDDD><A HREF=\"http://www.kpayne.net/spider/index.php?common=$common&words=$words&url=" . urlencode($spider->link_array[$i]) . "\">" . $spider->link_array[$i] . "</A></TD></TR>\n";
+	}
+
+echo "<TR><TD VALIGN=TOP BGCOLOR=#000000 COLSPAN=2><B><CENTER><FONT COLOR=#FFFFFF>E-mails Found:</FONT></CENTER></B></TD></TR>\n";
+if (count($spider->email_array) <= 0)
+	{
+	echo "<TR><TD VALIGN=TOP BGCOLOR=#DDDDDD COLSPAN=2><CENTER>No E-mails Found</CENTER></B></TD></TR>\n";
+	}
+
+for ($i = 0 ; $i < count($spider->email_array) ; $i++)
+	{
+	echo "<TR><TD WIDTH=150 VALIGN=TOP BGCOLOR=#DDDDDD>Email " . ($i + 1 ) . ":</TD><TD VALIGN=TOP BGCOLOR=#DDDDDD><A HREF=\"mailto:" . $spider->email_array[$i] . "\">" . $spider->email_array[$i] . "</A></TD></TR>\n";
+	}
+
+//echo "</TABLE><TABLE BORDER=0 WIDTH=95%>";
+echo "<TR><TD VALIGN=TOP COLSPAN=2 BGCOLOR=#000000><B><CENTER><FONT COLOR=#FFFFFF>Effeciency Information:</FONT></CENTER></B></TD></TR>\n";
+
+for ($i = 0 ; $i < count($spider->times) ; $i++)
+	{
+	$mytime = $spider->times[$i];
+	$mytime = ceil($mytime * 100);
+	$mytime = $mytime / 100;
+	echo "<TR><TD VALIGN=TOP BGCOLOR=#DDDDDD WIDTH=150>" . $spider->time_info[$i] . ":</TD><TD VALIGN=TOP BGCOLOR=#DDDDDD>" . $mytime . " seconds</TD></TR>\n";
+	}
+echo "<TR><TD COLSPAN=2 ALIGN=LEFT><BR><BR><SMALL>* Not including fetch time</SMALL></TD></TR>\n";
+echo "</TABLE>";
+	}
+?>
+</CENTER>
+</HTML>

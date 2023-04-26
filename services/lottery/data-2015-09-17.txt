@@ -1,0 +1,17 @@
+
+17.09.2015 00:00:01 - run lottery action
+ lottery users list count = 272
+17.09.2015 01:00:01 - run lottery action
+ lottery users list count = 272
+17.09.2015 02:00:02 - run lottery action
+ lottery users list count = 272
+17.09.2015 03:00:01 - run lottery action
+ lottery users list count = 272
+17.09.2015 04:00:01 - run lottery action
+ lottery users list count = 272
+17.09.2015 05:00:01 - run lottery action
+ lottery users list count = 272
+17.09.2015 06:00:01 - run lottery action
+ lottery users list count = 272
+17.09.2015 23:00:01 - run lottery action
+ lottery users list count = 272

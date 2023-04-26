@@ -1,0 +1,127 @@
+
+15.07.2016 00:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 01:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 02:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 03:00:02 - run lottery action
+ lottery users list count = 283
+15.07.2016 04:00:02 - run lottery action
+ lottery users list count = 283
+15.07.2016 05:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 06:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 07:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 07:00:02 - SEND message 3 to user 447401938163
+15.07.2016 07:01:20 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1409218313";s:10:"message_id";s:10:"1409218313";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+15.07.2016 07:01:25 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1409218313";s:10:"message_id";s:10:"1409218313";s:6:"number";s:12:"447401938163";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+15.07.2016 07:01:25 - User 447401938163 get delivered for first message
+15.07.2016 07:07:18 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 07:07:31 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 07:08:05 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 07:09:05 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 08:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 08:00:26 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 08:00:32 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 08:01:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 08:02:05 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 08:02:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 09:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 09:00:40 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 09:01:16 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 09:01:28 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 09:01:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 09:02:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 10:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 10:00:26 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 10:01:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 10:02:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 10:03:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 10:04:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 11:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 11:00:25 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 11:01:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 11:02:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 11:03:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 11:04:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 12:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 12:00:26 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 12:01:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 12:01:56 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 12:02:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 12:03:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 13:00:02 - run lottery action
+ lottery users list count = 283
+15.07.2016 13:00:22 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 13:01:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 13:01:37 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 13:02:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 13:02:26 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 14:00:02 - run lottery action
+ lottery users list count = 283
+15.07.2016 14:00:26 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 14:00:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 14:01:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 14:01:48 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 14:02:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 15:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 15:00:34 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 15:00:50 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 15:01:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 15:01:27 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 15:01:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 16:00:02 - run lottery action
+ lottery users list count = 283
+15.07.2016 16:06:23 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 16:07:32 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 16:07:42 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 16:07:52 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 16:08:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 17:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 17:04:29 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 17:06:38 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 17:06:42 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 17:06:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 17:07:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 18:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 18:00:38 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 18:00:50 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 18:00:58 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 18:01:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 18:01:27 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 19:00:02 - run lottery action
+ lottery users list count = 283
+15.07.2016 19:00:28 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 19:00:50 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 19:01:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 19:01:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 19:02:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 20:00:02 - run lottery action
+ lottery users list count = 283
+15.07.2016 20:00:23 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 20:01:05 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 20:02:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 20:02:24 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 20:02:52 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 21:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 22:00:01 - run lottery action
+ lottery users list count = 283
+15.07.2016 22:00:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 22:01:06 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 22:02:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 22:03:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 22:03:56 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1970963402";s:10:"message_id";s:10:"1970963402";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+15.07.2016 23:00:01 - run lottery action
+ lottery users list count = 283

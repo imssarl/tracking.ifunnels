@@ -1,0 +1,17 @@
+Here is the CSV file format for different Affiliate Networks
+
+For : Linkshare
+
+["Member", "Order", "Sales", "Quantity", "Commissions", "Date('YYYY-MM-DD')", "Time(hh:mm:ss)"]
+
+For : Commission Junction
+
+["sId", "originalActionId", "saleAmount","items", "commissionAmount", "eventDate", "time(hh:mm:ss)"]
+
+For : Clickbank 
+
+[Date('YYYY-MM-DD'), Time(hh:mm), Receipt, TID, Pmt, Txn Type, Item, Amount, Publisher, Affiliate, CC, St., Last Name, First Name, Email]
+
+For : MaxBounty, CPA Empire, Clickbooth, Manually added networks
+
+["TrackingID", "Order", "Sales", "Quantity", "Commissions", "Date('YYYY-MM-DD')", "Time(hh:mm:ss)"]

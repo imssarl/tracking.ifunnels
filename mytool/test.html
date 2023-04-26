@@ -1,0 +1,192 @@
+<html>
+<head>
+<title>cPanel X</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="../style.css">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v3.0
+var p,i,x; if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_swapImage() { //v3.0
+var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+<body onLoad="MM_preloadImages('../images/home_on.gif','../images/logout_on.gif')">
+<table width="603" border="1" cellspacing="2" cellpadding="0" bgcolor="#FFFFFF" bordercolor="#D4D9DB" align="center">
+<tr valign="top">
+<td height="142">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+<tr>
+<td height="2" colspan="3">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/frontend/bluelagoon/branding/top_01_bg.gif">
+<tr>
+<td><img alt="cPanel" src="/frontend/bluelagoon/branding/top_01_1.gif" width="637" height="41"></td>
+<td align="right" width="44"><a target="_top" href="../index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image01','','../images/home_on.gif',1)"><img alt="[ Home ]" name="image01" border="0" src="../images/home_off.gif" width="44" height="41"></a></td>
+<td align="right" width="44"><a target="_top" href="/logout/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image02','','../images/logout_on.gif',1)"><img alt="[ Logout ]" name="image02" border="0" src="../images/logout_off.gif" width="44" height="41"></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="19" colspan="3">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/frontend/bluelagoon/branding/top_01-sm_bg.gif">
+<tr>
+<td align="left" width="145" nowrap><img alt="" src="/frontend/bluelagoon/branding/top_01-sm_1.gif" width="145" height="70"></td>
+<td align="left" width="145" nowrap><img alt="" src="/frontend/bluelagoon/branding/top_01-sm_2.gif" width="145" height="70"></td>
+<td align="left" width="145" nowrap><img alt="" src="/frontend/bluelagoon/branding/top_01-sm_3.gif" width="145" height="70"></td>
+<td align="left" width="145" nowrap><img alt="" src="/frontend/bluelagoon/branding/top_01-sm_4.gif" width="145" height="70"></td>
+<td align="left"><img alt="" src="/frontend/bluelagoon/branding/top_01-sm_5.gif" width="145" height="70"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="2" colspan="3">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/frontend/bluelagoon/branding/top_03_bg.gif">
+<tr>
+<td width="135" nowrap align="left"><img alt="" src="/frontend/bluelagoon/branding/top_03_1.gif" width="125" height="26"></td>
+<td align="right"><img alt="" src="/frontend/bluelagoon/branding/top_03_2.gif" width="600" height="26"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr valign="top">
+<td colspan="3">
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr valign="top">
+<td>
+
+<script>
+function checksubdomain() {
+var subdomain = document.domainform.domain.value;
+if (subdomain == '') {
+alert("Your sub domain name cannot be null.");
+return false;
+}
+if (subdomain.indexOf(' ') > -1) {
+alert("Your sub domain name cannot contain any spaces.");
+return false;
+}
+if (subdomain.indexOf('.')!= -1) {
+alert("Your sub subdomain must not contain any periods.");
+return false;
+}
+var pattern = /(?:^[-]¦[-]$)/;
+if (subdomain.match(pattern)!= null) {
+alert("Sorry, your sub domain name must not begin or end with a hyphen.");
+return false;
+}
+var pattern = /^www$/i;
+if (subdomain.match(pattern)!= null) {
+alert("Sorry, your sub domain name must not be 'www'. This is handled for you.");
+return false;
+}
+return true;
+}
+</script>
+
+<div align="center">
+<table width="550" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td valign="bottom">&nbsp;</td>
+<td valign="middle" width="522"><font class="big">Sub Domain Maintenance</font></td>
+<td valign="bottom">&nbsp;</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<br />
+<div align="center">
+Current Sub-Domains
+<hr width="50%">
+art-work.example.net (art-work)<br>
+art-works.example.net (art-works)<br>
+artwork-inc.example.net (artwork-inc)<br>
+artwork.example.net (artwork)<br>
+
+<br /><br />
+<form onSubmit="return checksubdomain()" action="doadddomain.html" name="domainform">
+<input type="text" name="domain">.
+<select name="rootdomain"><option value="art-work.example.net">art-work.example.net</option>
+<option value="art-works.example.net">art-works.example.net</option>
+<option value="artwork-inc.example.net">artwork-inc.example.net</option>
+<option value="artwork.example.net">artwork.example.net</option>
+</select>
+<input type="submit" value="Add">
+<br />
+<font size="-2">Note: If you wish to grant virtual ftp access to this subdomain, just create an FTP user with the same username as the subdomain base name that is listed inside the () above.</font>
+</form>
+<form action="doredirectdomain.html">
+<select name="domain"><option value="art-work_example.net">art-work.example.net</option>
+<option value="art-works_example.net">art-works.example.net</option>
+<option value="artwork-inc_example.net">artwork-inc.example.net</option>
+<option value="artwork_example.net">artwork.example.net</option>
+</select>
+<input type="submit" value="Setup Redirection">
+</form>
+<form action="donoredirect.html">
+<select name="domain"><option value="art-work_example.net">art-work.example.net</option>
+<option value="art-works_example.net">art-works.example.net</option>
+<option value="artwork-inc_example.net">artwork-inc.example.net</option>
+<option value="artwork_example.net">artwork.example.net</option>
+</select>
+<input type="submit" value="Remove Redirection">
+</form>
+<form action="dodeldomain.html">
+<select name="domain"><option value="art-work_example.net">art-work.example.net</option>
+<option value="art-works_example.net">art-works.example.net</option>
+<option value="artwork-inc_example.net">artwork-inc.example.net</option>
+<option value="artwork_example.net">artwork.example.net</option>
+</select>
+<input type="submit" value="Delete">
+</form>
+
+<b><font class="bodyblack">Note: subdomains rely on the DNS system in order to function, which means that your DNS information must propagate throughout the different DNS servers on the Internet before your subdomain becomes fully active. This process on the average takes a few hours.</font></b>
+</div>
+</td>
+<td></td>
+</tr>
+<tr>
+<td valign = "bottom">&nbsp;</td>
+<td valign = "bottom">&nbsp;</td>
+</tr>
+</table>
+<br /><br />
+<b>[</b> <a href="../index.html">Go Back</a><b> ]</b>
+</div>
+<br></td></tr></table></td></tr><tr align="center">
+<td height="2" colspan="3">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" background="/frontend/bluelagoon/branding/bottom_bg.gif">
+<tr align="center">
+<td><img alt="" src="/frontend/bluelagoon/branding/bottom_label.gif" width="327" height="23"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+<!---cPanel [10.8.2-RELEASE_119] (pro) Copyright (c) 1997-2006 cPanel, Inc. Licensed on aus5.unlimited-space.com ---> 

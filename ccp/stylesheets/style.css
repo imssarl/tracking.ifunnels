@@ -1,0 +1,135 @@
+body {
+	background-color: #F0FCFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 24px;
+	color: #000066;
+}
+.top
+{
+background-color:#0085B0;
+}
+.menu:link
+	{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#33FFFF;
+		text-decoration:none;		
+	}
+.menu:visited
+	{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#33FFFF;
+		text-decoration:none;		
+	}
+.menu:hover
+	{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#FF0000;
+		text-decoration:none;		
+	}
+	.menurow
+	{
+	line-height:25px;
+	background-color: #0099CC;
+	text-align:center;
+	}
+.general:link
+	{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#000000;
+		text-decoration:none;		
+	}
+.general:visited
+	{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#000000;
+		text-decoration:none;		
+	}
+.general:hover
+	{
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#FF0000;
+		text-decoration:none;		
+	}
+
+.formheading
+{
+background-color:#0099CC;
+}
+.formback
+{
+background-color:#D2F4FF;
+text-align:center;
+}
+.formback2
+{
+background-color:#A6E9FF;
+text-align:center;
+}
+
+.tableheading
+{
+background-color:#0085B0;
+color:#FFFFFF;
+text-align:center;
+}
+.subtableheading
+{
+	background-color:#64A9FD;
+	color:#FFFFFF;
+	text-align:center;
+	font-weight: bold;
+}
+
+.tablematter1
+{
+background-color:#F4F4F4;
+}
+.tablematter2
+{
+background-color:#FFFFFF;
+}
+.tablematter3
+{
+background-color:#99CCFF;
+}
+
+.message
+{
+color:#FF0000;
+}
+.messagebox
+{
+background-color:#B0ECFF;
+width:60%;
+text-align:center;
+vertical-align:middle;
+}
+.messwindow
+{
+background-color:#B0ECFF;
+width:100%;
+text-align:left;
+vertical-align:middle;
+}
+
+img {
+	border: 0;
+	}
+input
+{
+font-size:11px; background-color:#FFFFFF; color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; border:1px solid #000000; padding:1px;}
+textarea
+{
+font-size:11px; background-color:#FFFFFF; color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; border:1px solid #000000; padding:1px;}
+select
+{
+font-size:11px; background-color:#FFFFFF; color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; border:1px solid #000000; padding:1px;}
+input.normal
+{font-size:11px; background-color:#FFFFFF; color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; border:0px solid #000000; padding:1px;}

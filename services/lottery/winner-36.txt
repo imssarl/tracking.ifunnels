@@ -1,0 +1,9 @@
+WINNER id (phone): 447445566731 deliver on message 1
+
+From users list!
+
+User id (phone): 447445566731 deliver on message 2 at 02.09.2015 14:01:45
+User id (phone): 447808242645 deliver on message 1 at 02.09.2015 07:14:30
+User id (phone): 447772256212 deliver on message 1 at 02.09.2015 07:19:37
+User id (phone): 447506548877 deliver on message 1 at 02.09.2015 07:14:30
+User id (phone): 447445566731 deliver on message 1 at 04.09.2015 12:04:43

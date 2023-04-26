@@ -1,0 +1,6 @@
+Time Stamp: Sun Jan 27 05:00:55 2002
+cbDiskPrompt : File copy canceled on:
+Time Stamp: Sun Jan 27 05:00:55 2002
+cbDiskPrompt : netrts5.inf
+Time Stamp: Sun Jan 27 05:00:55 2002
+cbDiskPrompt : C:\WIN 98\

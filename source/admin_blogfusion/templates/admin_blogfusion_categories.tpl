@@ -1,0 +1,1 @@
+{module name='category' action='catsOuter' category='Blog Fusion'}

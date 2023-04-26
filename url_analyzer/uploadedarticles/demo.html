@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> New Document </TITLE>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+<script language="javascript">
+var count = 1;
+var limit = 4;
+function showtr()
+{
+	if(count>4)
+	{
+	alert("No ");
+}
+else
+{
+	document.getElementById("tr"+count).style["visibility"] = "visible";
+	document.getElementById("tr"+count).style["position"] = "relative";
+	document.form1.elements["text"+count].value = "";
+	count++;
+}
+}
+
+function deletetr()
+{
+	var tcount = count-1;
+	if(tcount==0)
+	{
+		alert("No Item");
+	}
+	else
+	{
+		document.getElementById("tr"+tcount).style["visibility"] = "hidden";
+		document.getElementById("tr"+tcount).style["position"] = "absolute";
+		count--;
+	}
+}
+</script>
+</HEAD>
+
+<BODY>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<form name="form1" method="post">
+<script language="javascript">
+for(x=1;x<=limit;x++)
+{
+	document.write("<tr id=tr"+x+" style='visibility:hidden;position:absolute'><td><input type='text' name='text"+x+"'></td></tr>");
+}
+</script>
+</table>
+<input type="button" name="button1" value = "Display" onClick="javascript:showtr()">
+<input type="button" name="button1" value = "Display" onClick="javascript:deletetr()">
+</form>
+</BODY>
+</HTML>

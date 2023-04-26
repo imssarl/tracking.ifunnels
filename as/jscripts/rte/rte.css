@@ -1,0 +1,36 @@
+.rteImage {
+	background: #A2A2A2;
+	border: 1px solid #A2A2A2;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.rteImageRaised, .rteImage:hover {
+	background: #A2A2A2;
+	border: 1px outset;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.rteImageLowered, .rteImage:active {
+	background: #A2A2A2;
+	border: 1px inset;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.rteVertSep {
+	margin: 0 4px 0 4px;
+}
+
+.rteBack {
+	background: #A2A2A2;
+	border: 1px outset;
+	letter-spacing: 0;
+	padding: 2px;
+}
+
+.rteBack tbody tr td, .rteBack tr td {
+	background: #A2A2A2;
+	padding: 0;
+}

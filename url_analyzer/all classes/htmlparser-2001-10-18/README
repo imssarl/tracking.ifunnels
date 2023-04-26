@@ -1,0 +1,34 @@
+PHP Class HTMLparser, version 0.1
+
+This class is an HTML parser written in PHP4, by employing which you can
+parse a 'rather-standard' HTML stream into a tree-structure, that consitutes
+objects and properties.
+
+LICENSE			GNU GPLv2
+README			This file
+class.htmlparser.php	The class
+t			A test script
+test-class.htmlparser.php
+			Test script which demostrates the basic usage
+			of class.html
+
+
+Unfortunately, there are some restrictions and inconveniences:
+1. Comments are only in Chinese Big5. However the programme should be
+   simple enough to be read without understanding the comments.
+2. It is single-threaded. After all, PHP is not a programme language that
+   uses threads and good for OOP.
+3. Some extra attributes are added ('rows' and 'cols' for <table>) and thus
+   violate the standard. <html><head><body> are considered as 'End Tag
+   is necessary' tags, which violated the standard, too.
+4. rowspans aren't correctly calculated.
+5. DTD, HTML Comments, CSS, PHP, ASP tags and programmes are totally
+   ignored. They're even absent in the generated tree. This may be the
+   trouble for a CSS parser. This would be corrected in later releases.
+
+
+Please feel free to send any comments, patches, enhancements to
+Lin Zhemin <ljm@ljm.idv.tw>.
+
+The latest version can always be obtained via 
+http://ljm.idv.tw/php/class.htmlparser.tar.gz

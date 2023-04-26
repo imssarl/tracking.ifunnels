@@ -1,0 +1,40 @@
+
+10.09.2015 00:00:02 - run lottery action
+ lottery users list count = 1
+10.09.2015 01:00:01 - run lottery action
+ lottery users list count = 1
+10.09.2015 02:00:01 - run lottery action
+ lottery users list count = 1
+10.09.2015 03:00:01 - run lottery action
+ lottery users list count = 1
+10.09.2015 04:00:02 - run lottery action
+ lottery users list count = 1
+10.09.2015 05:00:01 - run lottery action
+ lottery users list count = 1
+10.09.2015 06:00:01 - run lottery action
+ lottery users list count = 1
+10.09.2015 07:00:01 - run lottery action
+ lottery users list count = 1
+10.09.2015 08:00:01 - run lottery action
+ lottery users list count = 1
+10.09.2015 08:44:26 - run lottery action
+ lottery users list count = 1
+10.09.2015 08:44:27 - SEND message 2 to user 447799906908
+10.09.2015 08:44:46 - REQUEST a:6:{s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:2:"87";s:2:"id";s:2:"87";s:6:"action";s:9:"mp_report";s:9:"reason_id";s:0:"";}
+10.09.2015 08:45:02 - REQUEST a:6:{s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:2:"87";s:9:"reason_id";s:0:"";s:2:"id";s:2:"87";s:6:"action";s:9:"mp_report";}
+10.09.2015 08:45:20 - REQUEST a:6:{s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:2:"87";s:9:"reason_id";s:0:"";s:2:"id";s:2:"87";s:6:"action";s:9:"mp_report";}
+10.09.2015 08:45:20 - REQUEST a:6:{s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:2:"87";s:2:"id";s:2:"87";s:6:"action";s:9:"mp_report";s:9:"reason_id";s:0:"";}
+10.09.2015 08:45:26 - REQUEST a:6:{s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:2:"87";s:9:"reason_id";s:0:"";s:2:"id";s:2:"87";s:6:"action";s:9:"mp_report";}
+10.09.2015 08:45:26 - REQUEST a:6:{s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:2:"87";s:2:"id";s:2:"87";s:6:"action";s:9:"mp_report";s:9:"reason_id";s:0:"";}
+10.09.2015 08:45:35 - REQUEST a:6:{s:6:"report";s:12:"ACKNOWLEDGED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:2:"87";s:9:"reason_id";s:0:"";s:2:"id";s:2:"87";s:6:"action";s:9:"mp_report";}
+10.09.2015 08:45:36 - REQUEST a:6:{s:6:"report";s:9:"DELIVERED";s:6:"number";s:12:"447799906908";s:10:"message_id";s:2:"87";s:2:"id";s:2:"87";s:6:"action";s:9:"mp_report";s:9:"reason_id";s:0:"";}
+10.09.2015 08:56:12 - run lottery action
+ lottery users list count = 1
+10.09.2015 08:56:12 - SEND message 2 to user 447799906908
+10.09.2015 09:00:02 - run lottery action
+ lottery users list count = 1
+10.09.2015 15:54:33 - PIRATE REQUEST a:1:{s:3:"tst";s:0:"";}
+ - SERVER a:29:{s:9:"HTTP_HOST";s:9:"qjmpz.com";s:14:"HTTP_X_REAL_IP";s:12:"37.44.85.157";s:20:"HTTP_X_FORWARDED_FOR";s:12:"37.44.85.157";s:15:"HTTP_CONNECTION";s:5:"close";s:11:"HTTP_ACCEPT";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:108:"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36";s:20:"HTTP_ACCEPT_ENCODING";s:19:"gzip, deflate, sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4";s:11:"HTTP_COOKIE";s:30:"adm=3bvsneuj0lejv1pl20o0k1hqj1";s:4:"PATH";s:28:"/usr/local/bin:/usr/bin:/bin";s:16:"SERVER_SIGNATURE";s:70:"<address>Apache/2.2.16 (Debian) Server at qjmpz.com Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:22:"Apache/2.2.16 (Debian)";s:11:"SERVER_NAME";s:9:"qjmpz.com";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:12:"37.44.85.157";s:13:"DOCUMENT_ROOT";s:24:"/data/www/qjmpz.com/html";s:12:"SERVER_ADMIN";s:18:"[no address given]";s:15:"SCRIPT_FILENAME";s:59:"/data/www/qjmpz.com/html/services/txtnation_sweepstakes.php";s:11:"REMOTE_PORT";s:5:"57522";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.0";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:3:"tst";s:11:"REQUEST_URI";s:39:"/services/txtnation_sweepstakes.php?tst";s:11:"SCRIPT_NAME";s:35:"/services/txtnation_sweepstakes.php";s:8:"PHP_SELF";s:35:"/services/txtnation_sweepstakes.php";s:12:"REQUEST_TIME";i:1441900473;}
+10.09.2015 23:00:02 - run lottery action
+ lottery users list count = 1

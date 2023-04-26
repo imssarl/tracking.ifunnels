@@ -1,0 +1,446 @@
+
+10.11.2015 00:00:01 - run lottery action
+ lottery users list count = 275
+10.11.2015 01:00:01 - run lottery action
+ lottery users list count = 275
+10.11.2015 02:00:01 - run lottery action
+ lottery users list count = 275
+10.11.2015 03:00:01 - run lottery action
+ lottery users list count = 275
+10.11.2015 04:00:01 - run lottery action
+ lottery users list count = 275
+10.11.2015 05:00:02 - run lottery action
+ lottery users list count = 275
+10.11.2015 06:00:01 - run lottery action
+ lottery users list count = 275
+10.11.2015 08:27:28 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 08:27:28 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 08:39:41 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 09:07:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 09:07:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 09:18:13 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 09:18:13 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 09:56:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 09:56:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 09:56:35 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 10:07:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 10:07:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 10:26:43 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 10:26:51 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 10:36:19 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:08:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:17:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:20:23 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:27:11 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:27:18 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:27:18 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:38:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:39:24 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:52:34 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 11:56:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:02:55 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:12:32 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:13:20 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:14:18 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:14:24 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:15:41 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:17:32 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:17:38 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:17:39 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:17:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:19:27 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:19:52 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:20:25 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:20:50 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:21:48 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:22:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:22:14 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:22:34 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:22:41 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:22:49 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:22:56 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:23:19 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:23:39 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:23:39 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:24:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:24:23 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:24:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:24:36 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:34:34 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:37:21 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 12:39:21 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:00:36 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:00:42 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:00:49 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:00:49 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:01:48 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:02:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:02:36 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:03:10 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:03:10 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:03:36 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:04:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:05:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 13:06:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 14:00:01 - run lottery action
+ lottery users list count = 275
+week day 2 time hour 14
+10.11.2015 14:00:02 - SEND message 1 to user 447401938163
+10.11.2015 14:00:02 - SEND message 1 to user 447413646524
+10.11.2015 14:00:02 - SEND message 1 to user 447414895285
+10.11.2015 14:00:02 - SEND message 1 to user 447415048651
+10.11.2015 14:00:03 - SEND message 1 to user 447415050582
+10.11.2015 14:00:03 - SEND message 1 to user 447415198830
+10.11.2015 14:00:03 - SEND message 1 to user 447415423196
+10.11.2015 14:00:03 - SEND message 1 to user 447415609160
+10.11.2015 14:00:03 - SEND message 1 to user 447415612176
+10.11.2015 14:00:04 - SEND message 1 to user 447415882123
+10.11.2015 14:00:04 - SEND message 1 to user 447415981533
+10.11.2015 14:00:04 - SEND message 1 to user 447428659491
+10.11.2015 14:00:04 - SEND message 1 to user 447437216493
+10.11.2015 14:00:04 - SEND message 1 to user 447437539601
+10.11.2015 14:00:05 - SEND message 1 to user 447443541556
+10.11.2015 14:00:05 - SEND message 1 to user 447446656906
+10.11.2015 14:00:05 - SEND message 1 to user 447447555276
+10.11.2015 14:00:05 - SEND message 1 to user 447450288373
+10.11.2015 14:00:05 - SEND message 1 to user 447453947084
+10.11.2015 14:00:05 - SEND message 1 to user 447454744747
+10.11.2015 14:00:06 - SEND message 1 to user 447455173924
+10.11.2015 14:00:06 - SEND message 1 to user 447456998910
+10.11.2015 14:00:06 - SEND message 1 to user 447460204423
+10.11.2015 14:00:06 - SEND message 1 to user 447462214504
+10.11.2015 14:00:06 - SEND message 1 to user 447468456745
+10.11.2015 14:00:06 - SEND message 1 to user 447468613594
+10.11.2015 14:00:07 - SEND message 1 to user 447469950979
+10.11.2015 14:00:07 - SEND message 1 to user 447469968319
+10.11.2015 14:00:07 - SEND message 1 to user 447470299793
+10.11.2015 14:00:07 - SEND message 1 to user 447470300669
+10.11.2015 14:00:07 - SEND message 1 to user 447472434892
+10.11.2015 14:00:08 - SEND message 1 to user 447472980941
+10.11.2015 14:00:08 - SEND message 1 to user 447473438411
+10.11.2015 14:00:08 - SEND message 1 to user 447474442842
+10.11.2015 14:00:08 - SEND message 1 to user 447474527691
+10.11.2015 14:00:08 - SEND message 1 to user 447477449399
+10.11.2015 14:00:08 - SEND message 1 to user 447477953743
+10.11.2015 14:00:09 - SEND message 1 to user 447478247639
+10.11.2015 14:00:09 - SEND message 1 to user 447478669825
+10.11.2015 14:00:09 - SEND message 1 to user 447479454414
+10.11.2015 14:00:09 - SEND message 1 to user 447479965581
+10.11.2015 14:00:09 - SEND message 1 to user 447479966333
+10.11.2015 14:00:09 - SEND message 1 to user 447480204002
+10.11.2015 14:00:10 - SEND message 1 to user 447480239476
+10.11.2015 14:00:10 - SEND message 1 to user 447480758855
+10.11.2015 14:00:10 - SEND message 1 to user 447480935499
+10.11.2015 14:00:10 - SEND message 1 to user 447481551832
+10.11.2015 14:00:10 - SEND message 1 to user 447487713718
+10.11.2015 14:00:10 - SEND message 1 to user 447487748594
+10.11.2015 14:00:11 - SEND message 1 to user 447494179040
+10.11.2015 14:00:11 - SEND message 1 to user 447494403862
+10.11.2015 14:00:11 - SEND message 1 to user 447500048071
+10.11.2015 14:00:11 - SEND message 1 to user 447500418738
+10.11.2015 14:00:11 - SEND message 1 to user 447500836965
+10.11.2015 14:00:12 - SEND message 1 to user 447502581325
+10.11.2015 14:00:12 - SEND message 1 to user 447503061999
+10.11.2015 14:00:12 - SEND message 1 to user 447506548877
+10.11.2015 14:00:12 - SEND message 1 to user 447508420611
+10.11.2015 14:00:12 - SEND message 1 to user 447508938021
+10.11.2015 14:00:12 - SEND message 1 to user 447510848056
+10.11.2015 14:00:13 - SEND message 1 to user 447514941779
+10.11.2015 14:00:13 - SEND message 1 to user 447517894630
+10.11.2015 14:00:13 - SEND message 1 to user 447518413307
+10.11.2015 14:00:13 - SEND message 1 to user 447521986645
+10.11.2015 14:00:13 - SEND message 1 to user 447525294872
+10.11.2015 14:00:13 - SEND message 1 to user 447527209771
+10.11.2015 14:00:14 - SEND message 1 to user 447527284899
+10.11.2015 14:00:14 - SEND message 1 to user 447527423249
+10.11.2015 14:00:14 - SEND message 1 to user 447527667272
+10.11.2015 14:00:14 - SEND message 1 to user 447528438456
+10.11.2015 14:00:14 - SEND message 1 to user 447531114421
+10.11.2015 14:00:15 - SEND message 1 to user 447532182521
+10.11.2015 14:00:15 - SEND message 1 to user 447534301681
+10.11.2015 14:00:15 - SEND message 1 to user 447538906243
+10.11.2015 14:00:15 - SEND message 1 to user 447539109623
+10.11.2015 14:00:15 - SEND message 1 to user 447540058905
+10.11.2015 14:00:15 - SEND message 1 to user 447542021571
+10.11.2015 14:00:16 - SEND message 1 to user 447545847160
+10.11.2015 14:00:16 - SEND message 1 to user 447546541954
+10.11.2015 14:00:16 - SEND message 1 to user 447548720881
+10.11.2015 14:00:16 - SEND message 1 to user 447549945974
+10.11.2015 14:00:16 - SEND message 1 to user 447551088836
+10.11.2015 14:00:17 - SEND message 1 to user 447554949399
+10.11.2015 14:00:17 - SEND message 1 to user 447557058520
+10.11.2015 14:00:17 - SEND message 1 to user 447557236697
+10.11.2015 14:00:17 - SEND message 1 to user 447561265756
+10.11.2015 14:00:17 - SEND message 1 to user 447566666676
+10.11.2015 14:00:18 - SEND message 1 to user 447568193355
+10.11.2015 14:00:18 - SEND message 1 to user 447575529211
+10.11.2015 14:00:18 - SEND message 1 to user 447584653464
+10.11.2015 14:00:18 - SEND message 1 to user 447585667503
+10.11.2015 14:00:18 - SEND message 1 to user 447586260842
+10.11.2015 14:00:18 - SEND message 1 to user 447590024617
+10.11.2015 14:00:19 - SEND message 1 to user 447593157611
+10.11.2015 14:00:19 - SEND message 1 to user 447593675819
+10.11.2015 14:00:19 - SEND message 1 to user 447594040056
+10.11.2015 14:00:19 - SEND message 1 to user 447598012135
+10.11.2015 14:00:19 - SEND message 1 to user 447598321319
+10.11.2015 14:00:20 - SEND message 1 to user 447701035422
+10.11.2015 14:00:20 - SEND message 1 to user 447701325268
+10.11.2015 14:00:20 - SEND message 1 to user 447701330747
+10.11.2015 14:00:20 - SEND message 1 to user 447701393094
+10.11.2015 14:00:20 - SEND message 1 to user 447703567513
+10.11.2015 14:00:20 - SEND message 1 to user 447706751931
+10.11.2015 14:00:21 - SEND message 1 to user 447707030994
+10.11.2015 14:00:21 - SEND message 1 to user 447710497364
+10.11.2015 14:00:21 - SEND message 1 to user 447711233103
+10.11.2015 14:00:21 - SEND message 1 to user 447711569920
+10.11.2015 14:00:21 - SEND message 1 to user 447712266897
+10.11.2015 14:00:22 - SEND message 1 to user 447713801651
+10.11.2015 14:00:22 - SEND message 1 to user 447713908281
+10.11.2015 14:00:22 - SEND message 1 to user 447715931230
+10.11.2015 14:00:22 - SEND message 1 to user 447717242723
+10.11.2015 14:00:22 - SEND message 1 to user 447717686609
+10.11.2015 14:00:22 - SEND message 1 to user 447719574276
+10.11.2015 14:00:23 - SEND message 1 to user 447721140318
+10.11.2015 14:00:23 - SEND message 1 to user 447722439266
+10.11.2015 14:00:23 - SEND message 1 to user 447724201586
+10.11.2015 14:00:23 - SEND message 1 to user 447725885426
+10.11.2015 14:00:24 - SEND message 1 to user 447733079490
+10.11.2015 14:00:24 - SEND message 1 to user 447733406886
+10.11.2015 14:00:24 - SEND message 1 to user 447736241808
+10.11.2015 14:00:24 - SEND message 1 to user 447737828853
+10.11.2015 14:00:24 - SEND message 1 to user 447738099733
+10.11.2015 14:00:25 - SEND message 1 to user 447738355256
+10.11.2015 14:00:25 - SEND message 1 to user 447741282425
+10.11.2015 14:00:25 - SEND message 1 to user 447745152464
+10.11.2015 14:00:25 - SEND message 1 to user 447748032268
+10.11.2015 14:00:25 - SEND message 1 to user 447762177394
+10.11.2015 14:00:25 - SEND message 1 to user 447762537574
+10.11.2015 14:00:26 - SEND message 1 to user 447767816908
+10.11.2015 14:00:26 - SEND message 1 to user 447768334589
+10.11.2015 14:00:26 - SEND message 1 to user 447772514125
+10.11.2015 14:00:26 - SEND message 1 to user 447772730009
+10.11.2015 14:00:26 - SEND message 1 to user 447776633366
+10.11.2015 14:00:27 - SEND message 1 to user 447778070555
+10.11.2015 14:00:27 - SEND message 1 to user 447784199277
+10.11.2015 14:00:27 - SEND message 1 to user 447790937136
+10.11.2015 14:00:27 - SEND message 1 to user 447792078270
+10.11.2015 14:00:27 - SEND message 1 to user 447792092284
+10.11.2015 14:00:28 - SEND message 1 to user 447792566420
+10.11.2015 14:00:28 - SEND message 1 to user 447793021810
+10.11.2015 14:00:28 - SEND message 1 to user 447793814964
+10.11.2015 14:00:28 - SEND message 1 to user 447794087486
+10.11.2015 14:00:28 - SEND message 1 to user 447794367692
+10.11.2015 14:00:28 - SEND message 1 to user 447794616555
+10.11.2015 14:00:29 - SEND message 1 to user 447795327273
+10.11.2015 14:00:29 - SEND message 1 to user 447795817247
+10.11.2015 14:00:29 - SEND message 1 to user 447796508403
+10.11.2015 14:00:29 - SEND message 1 to user 447796711046
+10.11.2015 14:00:29 - SEND message 1 to user 447801417848
+10.11.2015 14:00:30 - SEND message 1 to user 447801435629
+10.11.2015 14:00:30 - SEND message 1 to user 447802821365
+10.11.2015 14:00:30 - SEND message 1 to user 447803206914
+10.11.2015 14:00:30 - SEND message 1 to user 447804219285
+10.11.2015 14:00:30 - SEND message 1 to user 447808209983
+10.11.2015 14:00:30 - SEND message 1 to user 447808213183
+10.11.2015 14:00:31 - SEND message 1 to user 447808216415
+10.11.2015 14:00:31 - SEND message 1 to user 447808219424
+10.11.2015 14:00:31 - SEND message 1 to user 447808898801
+10.11.2015 14:00:31 - SEND message 1 to user 447814752500
+10.11.2015 14:00:31 - SEND message 1 to user 447814771517
+10.11.2015 14:00:32 - SEND message 1 to user 447815912568
+10.11.2015 14:00:32 - SEND message 1 to user 447817330205
+10.11.2015 14:00:32 - SEND message 1 to user 447818469542
+10.11.2015 14:00:32 - SEND message 1 to user 447824888044
+10.11.2015 14:00:32 - SEND message 1 to user 447825440657
+10.11.2015 14:00:32 - SEND message 1 to user 447825955826
+10.11.2015 14:00:33 - SEND message 1 to user 447827122945
+10.11.2015 14:00:33 - SEND message 1 to user 447827470605
+10.11.2015 14:00:33 - SEND message 1 to user 447828159768
+10.11.2015 14:00:33 - SEND message 1 to user 447832112186
+10.11.2015 14:00:33 - SEND message 1 to user 447832702268
+10.11.2015 14:00:34 - SEND message 1 to user 447833088148
+10.11.2015 14:00:34 - SEND message 1 to user 447837112257
+10.11.2015 14:00:34 - SEND message 1 to user 447845512077
+10.11.2015 14:00:34 - SEND message 1 to user 447847034669
+10.11.2015 14:00:34 - SEND message 1 to user 447850252600
+10.11.2015 14:00:34 - SEND message 1 to user 447850290253
+10.11.2015 14:00:35 - SEND message 1 to user 447850350962
+10.11.2015 14:00:35 - SEND message 1 to user 447850494780
+10.11.2015 14:00:35 - SEND message 1 to user 447850654712
+10.11.2015 14:00:35 - SEND message 1 to user 447852453815
+10.11.2015 14:00:35 - SEND message 1 to user 447852683946
+10.11.2015 14:00:35 - SEND message 1 to user 447853153576
+10.11.2015 14:00:36 - SEND message 1 to user 447854555090
+10.11.2015 14:00:36 - SEND message 1 to user 447855911568
+10.11.2015 14:00:36 - SEND message 1 to user 447856034682
+10.11.2015 14:00:36 - SEND message 1 to user 447857242694
+10.11.2015 14:00:36 - SEND message 1 to user 447860212147
+10.11.2015 14:00:37 - SEND message 1 to user 447860939378
+10.11.2015 14:00:37 - SEND message 1 to user 447861650000
+10.11.2015 14:00:37 - SEND message 1 to user 447863877777
+10.11.2015 14:00:37 - SEND message 1 to user 447867305348
+10.11.2015 14:00:37 - SEND message 1 to user 447867491801
+10.11.2015 14:00:37 - SEND message 1 to user 447870418599
+10.11.2015 14:00:38 - SEND message 1 to user 447871772027
+10.11.2015 14:00:38 - SEND message 1 to user 447871815545
+10.11.2015 14:00:38 - SEND message 1 to user 447872188129
+10.11.2015 14:00:38 - SEND message 1 to user 447872823763
+10.11.2015 14:00:38 - SEND message 1 to user 447872894885
+10.11.2015 14:00:39 - SEND message 1 to user 447876437121
+10.11.2015 14:00:39 - SEND message 1 to user 447876647070
+10.11.2015 14:00:39 - SEND message 1 to user 447880330771
+10.11.2015 14:00:39 - SEND message 1 to user 447881336136
+10.11.2015 14:00:39 - SEND message 1 to user 447890568511
+10.11.2015 14:00:39 - SEND message 1 to user 447891858859
+10.11.2015 14:00:40 - SEND message 1 to user 447894020041
+10.11.2015 14:00:40 - SEND message 1 to user 447894586443
+10.11.2015 14:00:40 - SEND message 1 to user 447894598557
+10.11.2015 14:00:40 - SEND message 1 to user 447896499945
+10.11.2015 14:00:40 - SEND message 1 to user 447900245435
+10.11.2015 14:00:40 - SEND message 1 to user 447900921192
+10.11.2015 14:00:41 - SEND message 1 to user 447900965209
+10.11.2015 14:00:41 - SEND message 1 to user 447902789307
+10.11.2015 14:00:41 - SEND message 1 to user 447903058366
+10.11.2015 14:00:41 - SEND message 1 to user 447903840446
+10.11.2015 14:00:41 - SEND message 1 to user 447909006908
+10.11.2015 14:00:42 - SEND message 1 to user 447914750850
+10.11.2015 14:00:42 - SEND message 1 to user 447914927399
+10.11.2015 14:00:42 - SEND message 1 to user 447918517533
+10.11.2015 14:00:42 - SEND message 1 to user 447919043199
+10.11.2015 14:00:42 - SEND message 1 to user 447927150485
+10.11.2015 14:00:42 - SEND message 1 to user 447927208781
+10.11.2015 14:00:43 - SEND message 1 to user 447930288727
+10.11.2015 14:00:43 - SEND message 1 to user 447932339879
+10.11.2015 14:00:43 - SEND message 1 to user 447939088440
+10.11.2015 14:00:43 - SEND message 1 to user 447939843463
+10.11.2015 14:00:43 - SEND message 1 to user 447940548501
+10.11.2015 14:00:43 - SEND message 1 to user 447941510448
+10.11.2015 14:00:44 - SEND message 1 to user 447941575526
+10.11.2015 14:00:44 - SEND message 1 to user 447943080317
+10.11.2015 14:00:44 - SEND message 1 to user 447944595206
+10.11.2015 14:00:44 - SEND message 1 to user 447944695663
+10.11.2015 14:00:44 - SEND message 1 to user 447946268043
+10.11.2015 14:00:45 - SEND message 1 to user 447947877351
+10.11.2015 14:00:45 - SEND message 1 to user 447947974625
+10.11.2015 14:00:45 - SEND message 1 to user 447948529891
+10.11.2015 14:00:45 - SEND message 1 to user 447948554821
+10.11.2015 14:00:45 - SEND message 1 to user 447949400619
+10.11.2015 14:00:45 - SEND message 1 to user 447950261908
+10.11.2015 14:00:46 - SEND message 1 to user 447950697580
+10.11.2015 14:00:46 - SEND message 1 to user 447950902332
+10.11.2015 14:00:46 - SEND message 1 to user 447951232971
+10.11.2015 14:00:46 - SEND message 1 to user 447951847988
+10.11.2015 14:00:46 - SEND message 1 to user 447952903336
+10.11.2015 14:00:47 - SEND message 1 to user 447956664460
+10.11.2015 14:00:47 - SEND message 1 to user 447956694047
+10.11.2015 14:00:47 - SEND message 1 to user 447957145731
+10.11.2015 14:00:47 - SEND message 1 to user 447957476235
+10.11.2015 14:00:47 - SEND message 1 to user 447960024277
+10.11.2015 14:00:47 - SEND message 1 to user 447961978342
+10.11.2015 14:00:48 - SEND message 1 to user 447963561336
+10.11.2015 14:00:48 - SEND message 1 to user 447964087949
+10.11.2015 14:00:48 - SEND message 1 to user 447964282656
+10.11.2015 14:00:48 - SEND message 1 to user 447967534664
+10.11.2015 14:00:48 - SEND message 1 to user 447967627555
+10.11.2015 14:00:48 - SEND message 1 to user 447969453173
+10.11.2015 14:00:49 - SEND message 1 to user 447970933228
+10.11.2015 14:00:49 - SEND message 1 to user 447970980266
+10.11.2015 14:00:49 - SEND message 1 to user 447971850859
+10.11.2015 14:00:49 - SEND message 1 to user 447972367179
+10.11.2015 14:00:49 - SEND message 1 to user 447975578214
+10.11.2015 14:00:50 - SEND message 1 to user 447975846877
+10.11.2015 14:00:50 - SEND message 1 to user 447982143403
+10.11.2015 14:00:50 - SEND message 1 to user 447982607423
+10.11.2015 14:00:50 - SEND message 1 to user 447982865921
+10.11.2015 14:00:50 - SEND message 1 to user 447983166740
+10.11.2015 14:00:50 - SEND message 1 to user 447983288260
+10.11.2015 14:00:51 - SEND message 1 to user 447983651743
+10.11.2015 14:00:51 - SEND message 1 to user 447983990968
+10.11.2015 14:00:51 - SEND message 1 to user 447984382240
+10.11.2015 14:00:51 - SEND message 1 to user 447984581961
+10.11.2015 14:00:51 - SEND message 1 to user 447985170056
+10.11.2015 14:00:51 - SEND message 1 to user 447985310757
+10.11.2015 15:01:41 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:01:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:01:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:02:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:02:14 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:03:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:03:31 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:04:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:05:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:05:55 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:06:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 15:07:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 16:10:54 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 16:11:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 16:11:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 17:02:36 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 17:02:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 17:03:10 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 17:14:28 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 18:07:25 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 18:07:25 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 18:07:32 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 18:07:40 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 18:56:56 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:00:24 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:00:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:00:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:00:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:05:39 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:06:26 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:06:38 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:08:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:09:40 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:09:46 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:10:33 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:11:19 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:11:24 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:11:35 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:11:35 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:11:41 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:11:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:12:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:12:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:12:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:12:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:12:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:12:21 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:13:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:13:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 19:13:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 20:00:49 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 20:00:49 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 20:00:49 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 20:02:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 20:03:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 20:03:29 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 20:03:42 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 21:13:18 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 21:13:33 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 21:13:33 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 21:32:27 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 21:59:37 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 21:59:38 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:00:35 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:00:35 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:00:45 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:00:45 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:02:39 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:02:39 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:02:51 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:03:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:03:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:03:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:03:36 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:03:46 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:03:46 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 22:03:57 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1392956493";s:10:"message_id";s:10:"1392956493";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 23:00:01 - run lottery action
+ lottery users list count = 275
+10.11.2015 23:08:12 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 23:09:10 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 23:09:51 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 23:10:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+10.11.2015 23:11:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1764984611";s:10:"message_id";s:10:"1764984611";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}

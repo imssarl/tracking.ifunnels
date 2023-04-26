@@ -1,0 +1,45 @@
+Content-type: text/html
+X-Powered-By: PHP/4.3.4
+
+Array
+(
+    [0] => Array
+        (
+            [form_data] => Array
+                (
+                    [name] => topsearch
+                    [action] => /search.php
+                    [method] => post
+                    [enctype] => 
+                )
+
+            [form_elemets] => Array
+                (
+                    [pattern] => Array
+                        (
+                            [type] => text
+                            [value] => 
+                        )
+
+                    [show] => Array
+                        (
+                            [type] => select
+                            [value] => quickref
+                        )
+
+                )
+
+            [buttons] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => reset
+                            [name] => 
+                            [value] => 
+                        )
+
+                )
+
+        )
+
+)

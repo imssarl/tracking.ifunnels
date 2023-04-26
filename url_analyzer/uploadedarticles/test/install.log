@@ -1,0 +1,15 @@
+
+-------------------------------------------------
+InitSetup : in InitSetup
+InitSetup : CmdLine
+/initsetup*C:\DOCUME~1\tom\LOCALS~1\Temp\QH3495.ins\*C:\DOCUME~1\tom\LOCALS~1\Temp\QH3495.ins\*0*2*1*0*0*\"\"*8.00*0*
+InitSetup : TargetDir
+
+GetCurrentOS says this is MS XP Professional
+GetCurrentOS says this is MS XP
+InitSetup : In NonSilent Mode
+InitSetup: Before Get Run Time Parameters
+InitSetup : before Check for Previous version installed
+IsPrevVerInstalled: before GetCompanyProductFromQHChk.
+IsPrevVerInstalled: before 1st Check
+WinMain  : InitSetup ExitCode(105)

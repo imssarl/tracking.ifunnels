@@ -1,0 +1,51 @@
+
+24.09.2015 00:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 01:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 02:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 03:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 04:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 05:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 06:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 07:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 08:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 09:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 10:00:02 - run lottery action
+ lottery users list count = 272
+24.09.2015 10:45:33 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1416003983";s:10:"message_id";s:10:"1416003983";s:6:"number";s:12:"447414895285";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+24.09.2015 10:45:33 - User 447414895285 get delivered for first message
+24.09.2015 11:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 12:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 13:00:01 - run lottery action
+ lottery users list count = 272
+24.09.2015 14:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 15:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 16:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 17:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 18:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 19:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 20:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 21:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 22:00:01 - run lottery action
+ lottery users list count = 273
+24.09.2015 23:00:02 - run lottery action
+ lottery users list count = 273

@@ -1,0 +1,17 @@
+[USERNAME] : Username of the admin
+[EMAIL_ADDRESS] : Email Address of the admin
+
+[CREATED_DATE] : This refers when the site is created.
+[TITLE] : This referes the title of the site
+[DESCRIPTION] : This referes the description of the site
+[URL] : This refers the url of the site
+[FTP_ADDRESS] : FTP Address of site
+[FTP_USERNAME] : FTP Username of site
+[FTP_PASSWORD] : Ftp Password of site
+[FTP_HOMEPAGE] : Ftp homepage of site
+
+[PROJECT_CREATED_DATE] : This refers when the project is created
+[PROJECT_LAST_GENERATED_DATE] : This referes when the last time the keyword or article is generated.
+[PROJECT_PAUSED_DATE] : Thsi refers when the project is going to be paused.
+[NO_OF_ITEMS] : This refers how many no of keywords or articles you have to add in order to prevent the project from being paused.
+[PROJECT_ID] : This refers the id of the project.

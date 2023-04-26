@@ -1,0 +1,74 @@
+#chromemenu{
+}
+
+#chromemenu:after{ /*Add margin between menu and rest of content in Firefox*/
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+#chromemenu ul{
+border: 1px solid #BBB;
+width: 100%;
+ /*Theme Change here*/
+margin-left: 0;
+padding-left: 0;
+margin: 0;
+float: left;
+/*font: bold 12px Verdana;*/
+}
+
+
+#chromemenu ul li{
+display: inline;
+}
+
+
+#chromemenu ul li a{
+float: left;
+/*font-weight: normal;*/
+text-decoration: none;
+ /*Theme Change here*/
+}
+
+#chromemenu ul li a:hover{
+
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+position:absolute;
+top: 0;
+border: 1px solid #BBB; /*Theme Change here*/
+border-bottom-width: 0;
+
+line-height:18px;
+z-index:100;
+background-color:#00CCFF;
+width: 100px;
+visibility: hidden;
+}
+
+.dropmenudiv a{
+width: 100%;
+display: block;
+text-indent: 2px;
+border-bottom: 1px solid #BBB; /*Theme Change here*/
+padding: 2px 0;
+text-decoration: none;
+/*font-weight: normal;*/
+
+}
+
+.dropmenudiv a:hover{ /*Theme Change here*/
+background-color: #FFCC99;
+}a {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	
+	/*font-weight: normal;*/
+	/*color: #FFFFFF;*/
+	text-decoration: none;
+}

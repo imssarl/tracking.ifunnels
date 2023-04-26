@@ -1,0 +1,1 @@
+<a href="delete.php">Click here to go to delete</a>

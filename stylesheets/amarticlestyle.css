@@ -1,0 +1,75 @@
+.ambackground{
+background-color:#DEDEDE;
+}
+
+.amtable{
+
+color:#2F1F5C;
+	width:100%;
+}
+.amtitle{
+	color:#FFA812;
+	text-align: left;
+	font-size:25px;
+}
+
+.amunderline{
+	height:1px;
+	background-color:#FFA812;
+}
+
+.amsummary{
+	color:#FFA812;
+	text-align: left;
+	font-size:15px;
+}
+
+.amarticle{
+	color:#B94525;
+	text-align: left;
+	font-size:15px;
+}
+
+td.heading {
+	text-align: center;
+	background-color:#A2A2A2;
+	line-height:20px;
+	font-size:15px;
+}
+
+table.summary2 {
+/* Diff: wdith is removed */
+	background-color: #ffffff;
+	vertical-align: top;
+	border-spacing: 2px 2px;	
+	margin-left:auto; margin-right:auto;
+	
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #A2A2A2;
+	border-right-color: #A2A2A2;
+	border-bottom-color: #A2A2A2;
+	border-left-color: #A2A2A2;	
+	font-size:15px;
+}
+
+a:hover{
+	color: #FF0D05;
+	
+}
+a{
+	color: #000000;
+}
+
+div.message {
+	text-align: center;
+	background-color:#FFFFFF;
+	color:#FF0909;
+	line-height:20px;
+}

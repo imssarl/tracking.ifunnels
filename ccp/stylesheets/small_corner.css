@@ -1,0 +1,25 @@
+.small_box {
+
+    position: relative;
+	background-repeat:repeat-x;
+    width: 956px;
+    height: 1000px;
+
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+
+    clear: none;
+    float: none;
+    overflow: visible;
+    text-align: left;
+    top: 0px;
+    background-color: #000000;
+/*     clip: rect(0px,auto,auto,auto); */
+  }

@@ -1,0 +1,1548 @@
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team
+Quick help for customizing Star Articles from Kalptaru Infotech Ltd.
+
+You can get free help at anytime by sending an email to stararticles@a2zhelp.com
+
+To install this script, first of all unzip the contents of the zip file in a folder.
+Then upload this folder on your webserver (Say, www.server.com)
+
+Make sure that you give write permission to the Connections folder and all the files inside it.
+Also give write permission to articlecollector/config.php
+Also give write permission to the folder called "uploaded_images" folder.
+This folder stores the images that are uploaded by your users.
+Also give write permission to the "authorphoto" folder.
+This stores the author's photos.
+
+IT IS ABSOLUTELY NECESSARY TO GIVE WRITE PERMISSIONS FOR AUTOMATED INSTALLATION.
+
+To create the db tables, first create a database and then run www.server.com/install.db.php
+Replace server.com with the actual server name.
+
+This Tool uses the google web service to extract data from google. 
+
+To access the Google Web APIs service, you must create a Google Account and obtain a license key. 
+For creating account follow this url: https://www.google.com/accounts/NewAccount
+
+After Getting the google key set it at the the time of installation or 
+after installation set it through the "Configure Settings" page from admin section.
+
+PLEASE DELETE THE FOLLOWING FILES FROM YOUR SERVER
+- INSTALL.DB.PHP, 
+- INSTALL.DB.STEP2.PHP 
+- INSTALL.DB.STEP3.PHP 
+- INSTALL.ARTICLES.PHP 
+ AFTER THE INSTALLATION.
+
+If you get stuck at any point of installation, feel free to contact us. We will install this script for FREE.
+
+
+To modify the look and feel of the site you can modify the following  files.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+4. default.css: You can change the colors of this site by modifying this file.
+
+To put the adsense ads, just login to the admin area and paste the code in the "Manage Banners" section.
+
+In all these files, please remember to use absolute URLs for links and images e.g. use http://www.servername.com/images/header.gif etc instead of images/header.gif
+
+The admin interface can be accessed at www.server.com/admin.login.php
+The default admin id is admin
+The default admin password is admin
+The admin can modify the password using the user management interface
+
+We will help you install the script on your server and modify the look and feel for you.
+Please contact us at stararticles@a2zhelp.com for any help or assistance.
+
+SOME FREQUENTLY ASKED QUESTIONS
+===================================
+Q: Why does my installation not work?
+Ans: Make sure you have provided write permission to the connections folder and ALL the files inside that folder.
+Also make sure that the database details is correct.
+
+Q: Why does upload image not work?
+Ans: Make sure that you have given write permission to the uploaded_images folder
+
+Q: Why does clicking on category give me an error?
+Ans: Make sure that each category has ATLEAST one subcategory. If there are no subcategories, you might get an error.
+
+Q: Why does images and links not appear properly on the header of all pages except the home page.
+Ans: Make sure you use ABSOLUTE PATH for your images and links. 
+Instead of using images/header.gif, you must use http://www.yourservername.com/images/header.gif
+
+Q: Where do I modify the admin password?
+Ans: After logging into the admin area, click on the link to manage users. There you will find a user called admin.
+You can modify the all the details of admin there.
+
+Q: Help, the URLs are not working properly. I keep getting page not found error.
+Ans: This script uses one of the THREE different methods to create a url.
+i. Using PATH_INFO, this works on both windows and Linux/Unix servers but can be disabled by the host.
+ii. Using MOD_REWRITE, this works only on linux/Unix servers running apache but this too can be disabled by host.
+iii. Using Query String, this works on ALL servers under all circumstances.
+You can modify 00config.php to decide what method to use to create the URLs.
+
+Q: What files should I edit to change the colors and fonts of my site?
+Ans: You must edit default.css. It is very easy to use if you use WYSIWYG Editors like Dreamweaver or Frontpage.
+If you are not sure how to modify this, send us the details and we will do it for you.
+
+Q: What files should I edit to change the contents in header of the site or I want to put something on the top of ALL pages of my site
+Ans: You should edit inctop.php
+
+Q: What files should I edit to change the contents of footer of ALL pages.
+Ans: incbottom.php
+
+Q: What all files can I edit extra configurations my site?
+Ans: You can edit the following files. Please be careful because some of these files have PHP code in them. Kindly do not disturb that PHP code.
+
+1. inctop.php: Any change in this file will be seen on the top of all pages.
+2. incbottom.php: Any change in this file will be seen at the bottom of each page.
+3. incright.php: This file will be seen on the right of all pages.
+4. incmenu.php: You can add new menu items that are in the left of the page by editing this page.
+5. default.css: You can change the colors of this site by modifying this file.
+6. inc_article_ad.php: This is to display an ad in the article body in article detail page. 
+7. inc_article_ad_bottom.php :This is to display an ad at the bottom of article detail page.
+
+Q: I get errors when I try to get articles from remote sites or get articles from rss?
+Ans: When you get articles from RSS or remote sites, this script has to open a socket connection to 
+the other sites and then get the data. There are a lot of factors that might not have been right such
+as the other server is very slow, the network is not fast, the other server has changed the document structure etc
+In most of the cases, things will get resolved when you refresh the page after an hour or so.
+If that does not help and you keep getting the error for couple of days, send us the details and we will look into the matter.
+
+Q: I have found an error in this script, What should I do?
+Ans: Contact us immediately with the details of the error. We will fix it free of cost.
+
+Q: Why google related results are not displayed in SEO Tools?
+Ans: Check, have you set the Google key. After getting the key set that key through Configure Settings from Admin Section.
+The Google API Key can be received for free from the following URL: http://www.google.com/accounts/NewAccount
+
+Q. Need of SEO Feature..
+Ans: This Feature is used to Optimize your web site according to the search engines need and also tell where you stand in the TOP 10 race.
+
+Q. Why is MOD_REWRITE not working on my server.
+The script's zip contains a file called htaccess. Rename it to .htaccess to make it work.
+
+Q: Help, I am stuck...
+Ans: Contact us NOW. We respond to your enquiries on or before the next working day.
+
+Regards
+The Star Articles Team

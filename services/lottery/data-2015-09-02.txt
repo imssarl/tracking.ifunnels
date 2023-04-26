@@ -1,0 +1,74 @@
+
+02.09.2015 08:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 8
+02.09.2015 08:00:02 - SEND message 2 to user 447445566731
+02.09.2015 08:00:03 - SEND message 2 to user 447506548877
+02.09.2015 08:00:03 - SEND message 2 to user 447772256212
+02.09.2015 08:00:03 - SEND message 2 to user 447808242645
+02.09.2015 09:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 9
+02.09.2015 10:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 10
+02.09.2015 11:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 11
+02.09.2015 12:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 12
+02.09.2015 12:09:29 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 12
+02.09.2015 12:09:29 - SEND message 2 to user 447445566731
+02.09.2015 12:09:29 - SEND message 2 to user 447506548877
+02.09.2015 12:09:29 - SEND message 2 to user 447772256212
+02.09.2015 12:09:30 - SEND message 2 to user 447808242645
+02.09.2015 12:11:10 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 12
+02.09.2015 12:11:10 - SEND message 2 to user 447445566731
+02.09.2015 12:11:11 - SEND message 2 to user 447506548877
+02.09.2015 12:11:11 - SEND message 2 to user 447772256212
+02.09.2015 12:11:13 - SEND message 2 to user 447808242645
+02.09.2015 12:27:22 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 12
+02.09.2015 12:27:23 - SEND message 2 to user 447445566731
+02.09.2015 12:27:23 - SEND message 2 to user 447506548877
+02.09.2015 12:27:23 - SEND message 2 to user 447772256212
+02.09.2015 12:27:24 - SEND message 2 to user 447808242645
+02.09.2015 13:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 13
+02.09.2015 14:01:30 - run lottery action
+ lottery users list count = 270
+week day 3 time hour 14
+02.09.2015 14:01:30 - SEND message 2 to user 447445566731
+02.09.2015 14:01:30 - SEND message 2 to user 447506548877
+02.09.2015 14:01:31 - SEND message 2 to user 447772256212
+02.09.2015 14:01:31 - SEND message 2 to user 447808242645
+02.09.2015 16:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 16
+02.09.2015 17:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 17
+02.09.2015 18:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 18
+02.09.2015 19:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 19
+02.09.2015 20:00:01 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 20
+02.09.2015 21:00:02 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 21
+02.09.2015 22:00:02 - run lottery action
+ lottery users list count = 5
+week day 3 time hour 22
+02.09.2015 23:00:01 - run lottery action
+ lottery users list count = 5

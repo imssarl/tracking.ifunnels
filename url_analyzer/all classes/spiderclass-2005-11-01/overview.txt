@@ -1,0 +1,36 @@
+
+
+This class enables you to establish a spider, and then call one page at a time.
+
+Methods available:
+	spiderStart($strStartPage) 
+	spiderNextPage()
+	getPage($pageToGet)
+	getLinks($strURL="", $strPageContents, $strScrapeRegExp="")
+
+
+Note that:
+    getPage and getLinks can be used 'standalone' without a spider....
+
+
+... But the main use of the class is along the lines of:
+open a new object:
+$objXXX = new spiderScraper;
+[note; this doesn't start the spider; instead it allows you to access methods which do start the spider, as well as other methods such as link scraping or page fetching]
+
+then start the spider
+$objXXX -> spiderStart($strStartURL);
+
+set the regexps for the spider [see example for use]:
+$objSportSpider -> arrLinksRegex = $arrLinksRegex;
+
+set the spider's [max] depth:
+objSportSpider -> intCrawlDepth = 4;
+
+then call pages one at a time:
+for ($i = 1; $i <= 250; $i++) {
+    $arrFetchedPage = $objSportSpider -> spiderNextPage();
+}
+
+
+SEE EXAMPLES AND SCRIPT COMMENTS FOR FULL USAGE

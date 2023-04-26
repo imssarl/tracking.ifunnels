@@ -1,0 +1,66 @@
+
+14.11.2015 00:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 00:28:43 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:47:11 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:48:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:50:24 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:50:58 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:53:54 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:54:15 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:54:40 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:54:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:54:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:55:09 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:55:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:55:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:55:37 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:55:46 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:56:18 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 00:56:26 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1499852928";s:10:"message_id";s:10:"1499852928";s:6:"number";s:12:"447413646524";s:6:"report";s:16:"VALIDITY_EXPIRED";s:9:"reason_id";s:0:"";}
+14.11.2015 01:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 02:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 03:00:02 - run lottery action
+ lottery users list count = 275
+14.11.2015 04:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 05:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 06:00:02 - run lottery action
+ lottery users list count = 275
+14.11.2015 07:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 08:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 09:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 10:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 11:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 12:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 13:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 14:00:02 - run lottery action
+ lottery users list count = 275
+14.11.2015 15:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 16:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 17:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 18:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 19:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 20:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 21:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 22:00:01 - run lottery action
+ lottery users list count = 275
+14.11.2015 23:00:01 - run lottery action
+ lottery users list count = 275

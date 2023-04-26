@@ -1,0 +1,52 @@
+
+05.02.2016 00:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 01:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 02:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 03:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 04:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 05:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 06:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 07:00:02 - run lottery action
+ lottery users list count = 276
+05.02.2016 07:00:03 - SEND message 3 to user 447413646524
+05.02.2016 07:00:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1252162951";s:10:"message_id";s:10:"1252162951";s:6:"number";s:12:"447413646524";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+05.02.2016 07:00:31 - User 447413646524 get delivered for first message
+05.02.2016 08:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 09:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 10:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 11:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 12:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 13:00:02 - run lottery action
+ lottery users list count = 276
+05.02.2016 14:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 15:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 16:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 17:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 18:00:04 - run lottery action
+ lottery users list count = 276
+05.02.2016 19:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 20:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 21:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 22:00:01 - run lottery action
+ lottery users list count = 276
+05.02.2016 23:00:02 - run lottery action
+ lottery users list count = 276

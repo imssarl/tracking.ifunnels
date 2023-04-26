@@ -1,0 +1,8 @@
+Hello [USERNAME],
+
+This is the reminder for the article project.
+
+You are running the article project on [URL] started on date [PROJECT_CREATED_DATE]. Since this is the recurring project your project is now short of articles. You have to add [NO_OF_ITEMS] article(s) before or on [PROJECT_PAUSED_DATE] otherwise your project status will be set as paused.
+
+Thanks & Regards
+Controlpanel Administration

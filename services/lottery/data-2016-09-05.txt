@@ -1,0 +1,7 @@
+
+05.09.2016 08:50:16 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:3:"007";s:10:"message_id";s:3:"007";s:6:"number";s:12:"447799906908";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+05.09.2016 08:50:22 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:3:"007";s:10:"message_id";s:3:"007";s:6:"number";s:12:"447799906908";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+05.09.2016 08:50:58 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:3:"007";s:10:"message_id";s:3:"007";s:6:"number";s:12:"447799906908";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+05.09.2016 08:52:59 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:3:"007";s:10:"message_id";s:3:"007";s:6:"number";s:12:"447799906908";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+05.09.2016 08:55:32 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:3:"007";s:10:"message_id";s:3:"007";s:6:"number";s:12:"447799906908";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+05.09.2016 08:57:14 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:3:"007";s:10:"message_id";s:3:"007";s:6:"number";s:12:"447799906908";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}

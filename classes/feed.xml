@@ -1,0 +1,84 @@
+<item>
+<title>great indians</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+go to http://www.JoeyAtlas.comArticle Source: &amp;lt;a href=&amp;quot;http://&amp;#8217;, &amp;#8217;Joey Atlas&amp;#8217;, 1, &amp;#8217;approved&amp;#8217;, &amp;#8217;2005-10-05&amp;#8217;, 0, NULL, 7, 55, &amp;#8217;0&amp;#8217;, NULL, &amp;#8217;&amp;#8217;, &amp;#8217;&amp;#8217;, 0, &amp;#8217;0000-00-00&amp;#8217;, &amp;#8217;0000-00-00&amp;#8217;, 0);
+INSERT INTO `star5_articles` VALUES (525, &amp;#8217; What are the Three Main Symptoms to Lung Cancer?&amp;#8217;, &amp;#8217; What are the Three Main Symptoms to Lung Cancer?&amp;#8217;, &amp;#8217;Early de</description>
+</item>
+<item>
+<title>this is a part of sql statments</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+e Your Success&amp;#8217;, &amp;#8217; How to Change Your Perception-Direction to Rapidly Increase Your Success&amp;#8217;, &amp;#8217;A short article that explains how to rapidly increasea persons success by making a simple change in theirperception.&amp;#8217;, &amp;#8217;We&amp;#8217;&amp;#8217;ve all heard the phrase, &amp;quot;You get more of what you focusron.&amp;quot; In the Hawaiian shamanism system, known as Huna, theyrteach the principle of blessing. For instance if y</description>
+</item>
+<item>
+<title>indian festivals</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+od can trigger urges that can cause overeating.  Eating for some people can be a way of suppressing or soothing negative emotions.  These emotions could be stress, anger, anxiety, boredom, sadness and loneliness.The connection between mood and food turn these emotional eaters toward comfort foods in times of trouble.  They do not necessarily eat more food but they turn to more unhealthy foo</description>
+</item>
+<item>
+<title>ab aur kya likhu</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+ends millions on product placement every year, because they&amp;#8217;&amp;#8217;ve learned that when movie goers enjoy the movie, Coke sales go up.Do the same in your article. Use your business as the basis for a story you tell. Use your product as an example. Use one of your customers as a case study explaining your point.  One of the authors at ArticleMarketer.com took this advice and wrote an article to su</description>
+</item>
+<item>
+<title>indian culture</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+sh your article. They need content to keep their existing subscribers loyal, attract new subscribers, and earn them some money.What content do they want? Readers want to read about topics of interest, and learn from your experience and insight. Tell a story, explain how things work, offer examples because that&amp;#8217;&amp;#8217;s the way people learn. Once you give them some interesting information, they&amp;#8217;&amp;#8217;l</description>
+</item>
+<item>
+<title>file_get_contents</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+siegfri3d at gmail dot com
+05-Dec-2006 09:52
+Use the previous example if you want to request the server for a special part of the content, IF and only if the server accepts the method.
+If you want a simple example to ask the server for all the content, but only save a portion of it, do it this way:
+
+$content=file_get_contents(&amp;quot;http://www.google.com&amp;quot;,FALSE,NULL,0,20);
+echo $content;</description>
+</item>
+<item>
+<title>-- Table structure for table `star5_articles`</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+-- 
+
+CREATE TABLE `star5_articles` (
+  `id` int(11) NOT NULL auto_increment,
+  `title` varchar(255) NOT NULL default &amp;#8217;&amp;#8217;,
+  `keywords` varchar(255) NOT NULL default &amp;#8217;&amp;#8217;,
+  `summary` text,
+  `article` text NOT NULL,
+  `author_bio` text,
+  `author_id` int(11) NOT NULL default &amp;#8217;0&amp;#8217;,
+  `status` varchar(25) default &amp;#8217;new&amp;#8217;,
+  `date_added` date NOT NULL default &amp;#8217;0000-00-00&amp;#8217;,
+  `views` int(11) def</description>
+</item>
+<item>
+<title>jakarta tomcat apache</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+his author knows his stuff!&amp;quot;. When you get to the end and you see a link to whiter teeth dot com, you&amp;#8217;&amp;#8217;ll probably visit. However, if the whiter teeth link is stacked on top of clean fuel dot com and marketing stuff dot com, a confused reader will not click at all. Talk directly to your qualified audience about your topic and send them to a specific site, then watch as your sales go up.Focu</description>
+</item>
+<item>
+<title>Dumping data for table `star5_articles`</title>
+<link>datas/articles/</link>
+<guid>datas/articles/</guid>
+<description>
+-- 
+
+INSERT INTO `star5_articles` VALUES (207, &amp;#8217; The Truth About Refinancing Student Loans&amp;#8217;, &amp;#8217; The Truth About Refinancing Student Loans&amp;#8217;, &amp;#8217;There are many students and graduates out there that are struggling with paying for their student loans.  Often times, these people have heard of refinancing student loans in order to make their payments lower and more manageable.  But before you conside</description>
+</item>

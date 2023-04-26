@@ -1,0 +1,24 @@
+.add_border {
+	BORDER-RIGHT: #842000 1px outset; BORDER-TOP: #842000 1px outset; BORDER-LEFT: #842000 1px outset; BORDER-BOTTOM: #842000 1px outset
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Tahoma, Arial, Verdana
+}
+BODY {
+	FONT-SIZE: 10pt; MARGIN: 2px; FONT-FAMILY: Tahoma, Arial, Verdana; TOP: 2px
+}
+TH {
+	BORDER-RIGHT: #f7d3ce 1px outset; BORDER-TOP: #f7d3ce 1px outset; FONT-WEIGHT: bold; FONT-SIZE: 10pt; BACKGROUND-IMAGE: url(images/button.jpg); BORDER-LEFT: #f7d3ce 1px outset; COLOR: #ffffff; BORDER-BOTTOM: #f7d3ce 1px outset; FONT-FAMILY: Tahoma, Arial, Verdana
+}
+H1 {
+	FONT-WEIGHT: bolder; FONT-SIZE: 16pt; COLOR: #842000
+}
+LI {
+	PADDING-RIGHT: 6px; LIST-STYLE: none url(images/ico_star.gif) inside; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; PADDING-TOP: 6px
+}
+.increased_padding {
+	PADDING-RIGHT: 20px; PADDING-LEFT: 20px; PADDING-BOTTOM: 20px; PADDING-TOP: 20px
+}
+.white_links {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}

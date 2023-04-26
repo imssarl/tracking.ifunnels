@@ -1,0 +1,25 @@
+
+30.05.2016 00:00:02 - run lottery action
+ lottery users list count = 283
+30.05.2016 01:00:01 - run lottery action
+ lottery users list count = 283
+30.05.2016 02:00:01 - run lottery action
+ lottery users list count = 283
+30.05.2016 03:00:01 - run lottery action
+ lottery users list count = 283
+30.05.2016 04:00:01 - run lottery action
+ lottery users list count = 283
+30.05.2016 05:00:01 - run lottery action
+ lottery users list count = 283
+30.05.2016 06:00:01 - run lottery action
+ lottery users list count = 283
+30.05.2016 07:00:27 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1052798840";s:10:"message_id";s:10:"1052798840";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+30.05.2016 07:00:27 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1651464684";s:10:"message_id";s:10:"1651464684";s:6:"number";s:12:"447401938163";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+30.05.2016 07:00:27 - User 447401938163 get delivered for first message
+30.05.2016 07:00:34 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1298110733";s:10:"message_id";s:10:"1298110733";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.05.2016 08:06:18 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1298110733";s:10:"message_id";s:10:"1298110733";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.05.2016 08:09:37 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1298110733";s:10:"message_id";s:10:"1298110733";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.05.2016 08:10:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1298110733";s:10:"message_id";s:10:"1298110733";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.05.2016 08:10:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1298110733";s:10:"message_id";s:10:"1298110733";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.05.2016 23:00:01 - run lottery action
+ lottery users list count = 283

@@ -1,0 +1,8 @@
+Hello [USERNAME] ,
+
+This is the reminder for the keyword project.
+
+You are running the keyword project on [URL] started on date [PROJECT_CREATED_DATE]. Since this is the recurring project your project is now short of keywords. You have to add [NO_OF_ITEMS] keyword(s) before or on [PROJECT_PAUSED_DATE] otherwise your project status is set as paused.
+
+Thanks & Regards
+Controlpanel Administration

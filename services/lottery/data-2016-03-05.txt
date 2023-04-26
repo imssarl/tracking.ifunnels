@@ -1,0 +1,118 @@
+
+05.03.2016 00:00:02 - run lottery action
+ lottery users list count = 277
+05.03.2016 01:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 02:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 03:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 04:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 05:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 06:00:02 - run lottery action
+ lottery users list count = 277
+05.03.2016 07:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 07:00:02 - SEND message 3 to user 447401938163
+05.03.2016 07:00:02 - SEND message 3 to user 447413646524
+05.03.2016 07:00:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 07:00:22 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1795218627";s:10:"message_id";s:10:"1795218627";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+05.03.2016 07:00:22 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1795218627";s:10:"message_id";s:10:"1795218627";s:6:"number";s:12:"447413646524";s:6:"report";s:9:"DELIVERED";s:9:"reason_id";s:0:"";}
+05.03.2016 07:00:23 - User 447413646524 ACCEPT message 1795218627
+05.03.2016 07:00:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 07:00:35 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 07:02:31 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 07:03:05 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 08:00:02 - run lottery action
+ lottery users list count = 277
+05.03.2016 08:00:02 - SEND message 3 to user 447401938163
+05.03.2016 08:00:25 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+05.03.2016 08:00:29 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 08:00:34 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 08:00:39 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 08:00:47 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 08:01:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 09:00:02 - run lottery action
+ lottery users list count = 277
+05.03.2016 09:00:03 - SEND message 3 to user 447401938163
+05.03.2016 09:00:22 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 09:00:42 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 09:01:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 09:02:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 09:03:02 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 10:00:02 - run lottery action
+ lottery users list count = 277
+05.03.2016 10:00:02 - SEND message 3 to user 447401938163
+05.03.2016 10:00:38 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+05.03.2016 10:00:41 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 10:01:04 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 10:01:43 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 10:02:04 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 10:03:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 11:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 11:00:03 - SEND message 3 to user 447401938163
+05.03.2016 11:00:21 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 11:01:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 11:02:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 11:03:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 11:04:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 12:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 12:00:02 - SEND message 3 to user 447401938163
+05.03.2016 12:00:26 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+05.03.2016 12:00:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 12:00:31 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 12:01:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 12:01:48 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 12:02:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 13:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 13:00:02 - SEND message 3 to user 447401938163
+05.03.2016 13:00:19 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 13:01:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 13:02:04 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 13:03:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 13:04:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 14:00:02 - run lottery action
+ lottery users list count = 277
+05.03.2016 14:00:03 - SEND message 3 to user 447401938163
+05.03.2016 14:00:21 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+05.03.2016 14:00:24 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 14:00:51 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 14:01:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 14:02:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 14:02:16 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 15:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 15:00:02 - SEND message 3 to user 447401938163
+05.03.2016 15:00:20 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+05.03.2016 15:00:27 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 15:01:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 15:02:02 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 15:02:04 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 15:02:24 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 16:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 16:00:02 - SEND message 3 to user 447401938163
+05.03.2016 16:00:17 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 16:01:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 16:02:03 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 16:03:02 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 16:03:51 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1995561340";s:10:"message_id";s:10:"1995561340";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+05.03.2016 17:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 18:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 19:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 20:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 21:00:02 - run lottery action
+ lottery users list count = 277
+05.03.2016 22:00:01 - run lottery action
+ lottery users list count = 277
+05.03.2016 23:00:02 - run lottery action
+ lottery users list count = 277

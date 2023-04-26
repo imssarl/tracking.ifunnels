@@ -1,0 +1,9 @@
+Simply Paste your article in the given Description Area or if you want to import article file,
+just Browse the file path and click on upload button.
+
+
+<tr id="1">
+	<td>To import article file,
+just Browse the file path and click on upload button.
+</td></tr>
+ <tr id="2"><td>To select file from server select the folder name and after that click to the selected file</td></tr>

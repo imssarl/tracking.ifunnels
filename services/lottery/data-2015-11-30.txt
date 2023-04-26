@@ -1,0 +1,28 @@
+
+30.11.2015 00:00:01 - run lottery action
+ lottery users list count = 275
+30.11.2015 01:00:01 - run lottery action
+ lottery users list count = 275
+30.11.2015 02:00:01 - run lottery action
+ lottery users list count = 275
+30.11.2015 03:00:02 - run lottery action
+ lottery users list count = 275
+30.11.2015 04:00:02 - run lottery action
+ lottery users list count = 275
+30.11.2015 05:00:01 - run lottery action
+ lottery users list count = 275
+30.11.2015 06:00:01 - run lottery action
+ lottery users list count = 275
+30.11.2015 07:00:25 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"2101243879";s:10:"message_id";s:10:"2101243879";s:6:"number";s:12:"447413646524";s:6:"report";s:12:"ACKNOWLEDGED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:00:30 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1993798151";s:10:"message_id";s:10:"1993798151";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:00:44 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1993798151";s:10:"message_id";s:10:"1993798151";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:08:53 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1993798151";s:10:"message_id";s:10:"1993798151";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:09:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1993798151";s:10:"message_id";s:10:"1993798151";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:09:35 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"2057028162";s:10:"message_id";s:10:"2057028162";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:10:10 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"2057028162";s:10:"message_id";s:10:"2057028162";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:10:10 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"1993798151";s:10:"message_id";s:10:"1993798151";s:6:"number";s:12:"447401938163";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:11:07 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"2057028162";s:10:"message_id";s:10:"2057028162";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:12:08 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"2057028162";s:10:"message_id";s:10:"2057028162";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 07:12:41 - REQUEST a:6:{s:6:"action";s:9:"mp_report";s:2:"id";s:10:"2057028162";s:10:"message_id";s:10:"2057028162";s:6:"number";s:12:"447414895285";s:6:"report";s:6:"FAILED";s:9:"reason_id";s:0:"";}
+30.11.2015 23:00:01 - run lottery action
+ lottery users list count = 275
